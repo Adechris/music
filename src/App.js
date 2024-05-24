@@ -3,7 +3,7 @@ import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowLeft, faEllipsisH, faPlay, faPause, faRandom, faStepBackward, faStepForward, faVolumeUp } from '@fortawesome/free-solid-svg-icons';
 
-
+  
 import song1 from "./songs/1.mp3";
 import song2 from "./songs/2.mp3";
 import song3 from "./songs/3.mp3";
